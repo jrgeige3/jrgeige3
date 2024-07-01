@@ -17,8 +17,7 @@ Data engineering: Data pipelines, Data warehousing
 
 
 **Learning & Development:**
-- Current self project: Creating a reusable training template that can be leveraged for testing different time frames, feature testing, model selection and hyperparameter tuning to identify the best results. 
-
+- TBD
 
   
 
