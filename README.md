@@ -1,6 +1,6 @@
 Hi, I'm Jessica 
 
-Welcome to my GitHub profile! I'm a passionate and curious BI Developer always seeking opportunities to continue learning. I am seeking a community of like minded individuals to share thoughts and ideas. Here you will find a collection of my templates related to Data Science (work in progress).  
+Welcome to my GitHub profile! I'm a passionate and curious BI Developer always searching for opportunities to continue learning. I am seeking a community of like minded individuals to share thoughts and ideas. Here you will find a collection of my templates related to Data Science (work in progress). Also, I will use this space to expand my skillset and experiment.  
 
 
 **Skills:**
